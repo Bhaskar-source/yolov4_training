@@ -1,0 +1,8 @@
+obj.zib -> training data
+test.zip -> testing data
+obj.names -> classes 
+obj.data -> location information
+yolov4-obj.cfg -> download yolov4-cutom and rename with necessery changes.
+2 python file to create train.txt and test.txt
+
+ensure total 7 files before start training except requirements.txt file.
